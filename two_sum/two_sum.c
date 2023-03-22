@@ -1,8 +1,8 @@
 #include <stddef.h>
 #include <stdlib.h>
-#include "twoSum.h"
+#include "two_sum.h"
 
-int* twoSum(int* nums, int numsSize, int target, int* returnSize)
+int* two_sum(int* nums, int numsSize, int target, int* returnSize)
 {
     int* result = (int*)malloc(sizeof(int) * 2);
 
