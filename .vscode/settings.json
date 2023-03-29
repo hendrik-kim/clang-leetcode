@@ -5,6 +5,7 @@
     "*.md.liquid": "markdown",
     "*.js.liquid": "liquid-javascript",
     "*.css.liquid": "liquid-css",
-    "*.scss.liquid": "liquid-scss"
+    "*.scss.liquid": "liquid-scss",
+    "unique_occurrences.h": "c"
   }
 }
